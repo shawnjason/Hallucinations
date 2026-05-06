@@ -1,6 +1,6 @@
 # Language Model Hallucinations — Lean Proofs
 
-[![DOI](https://zenodo.org/badge/DOI/TBD.svg)](https://doi.org/TBD)
+[![DOI](https://zenodo.org/badge/DOI/20059771.svg)](https://doi.org/20059771)
 
 Machine-checked Lean 4 proofs for:
 
